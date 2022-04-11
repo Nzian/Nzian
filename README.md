@@ -1,6 +1,6 @@
 ### Hi there I'm Devnzian. 👋
 
-<!-- [![Website](https://img.shields.io/github/followers/ziauddin?style=social)](https://github.com/Nzian) -->
+<!-- [![Website](https://img.shields.io/github/followers/Nzian?style=social)](https://github.com/Nzian) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/devnzian?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=devnzian) 
 
 <br />
